@@ -18,7 +18,7 @@
     "url": "https://github.com/AdrianNugraha187/sorting--algorthm-exercise/issues"
   },
   "homepage": "https://github.com/AdrianNugraha187/sorting--algorthm-exercise#readme",
-  "dependencies": {
+  "devDependencies": {
     "concurrently": "^10.0.3",
     "nodemon": "^3.1.14"
   }

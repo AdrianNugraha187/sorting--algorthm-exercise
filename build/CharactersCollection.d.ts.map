@@ -1,1 +1,1 @@
-{"version":3,"file":"CharactersCollection.d.ts","sourceRoot":"","sources":["../src/CharactersCollection.ts"],"names":[],"mappings":"AAAA,qBAAa,oBAAoB;CAAG"}
+{"version":3,"file":"CharactersCollection.d.ts","sourceRoot":"","sources":["../src/CharactersCollection.ts"],"names":[],"mappings":"AAAA,qBAAa,oBAAoB;IACZ,IAAI,EAAE,MAAM;IAA/B,YAAmB,IAAI,EAAE,MAAM,EAAI;IAEnC,IAAI,MAAM,IAAI,MAAM,CAEnB;IAED,OAAO,CAAC,SAAS,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,OAAO,CAItD;IAED,IAAI,CAAC,SAAS,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,IAAI,CAQhD;CACF"}

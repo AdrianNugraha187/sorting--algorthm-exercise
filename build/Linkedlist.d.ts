@@ -1,2 +1,3 @@
-export {};
-//# sourceMappingURL=Linkedlist.d.ts.map
+export declare class CharactersCollection {
+}
+//# sourceMappingURL=LinkedList.d.ts.map
